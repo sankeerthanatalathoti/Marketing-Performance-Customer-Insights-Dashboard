@@ -37,12 +37,12 @@ The company faced:
 ### **1️⃣ Power BI Dashboard (PDF Version)**
 
 ## 📊 Dashboard Preview
-![Overview]()
-![Conversion]()
-![Social Media]()
-![Cx-Review]()
+![Overview](https://github.com/sankeerthanatalathoti/Marketing-Performance-Customer-Insights-Dashboard/blob/bd9329fbfcf60213f112fc20fd13a425ba5252d2/Marketing%20Performance%20%26%20Customer%20Insights%20Dashboard-Overview%20Report.pdf)
+![Conversion](https://github.com/sankeerthanatalathoti/Marketing-Performance-Customer-Insights-Dashboard/blob/bd9329fbfcf60213f112fc20fd13a425ba5252d2/Marketing%20Performance%20%26%20Customer%20Insights%20Dashboard-Conversion%20Details-Report.pdf)
+![Social Media](https://github.com/sankeerthanatalathoti/Marketing-Performance-Customer-Insights-Dashboard/blob/bd9329fbfcf60213f112fc20fd13a425ba5252d2/Marketing%20Performance%20%26%20Customer%20Insights%20Dashboard-SocialMedia-Report.pdf)
+![Cx-Review](https://github.com/sankeerthanatalathoti/Marketing-Performance-Customer-Insights-Dashboard/blob/bd9329fbfcf60213f112fc20fd13a425ba5252d2/Marketing%20Performance%20%26%20Customer%20Insights%20Dashboard-CX%20Review%20Report.pdf)
 
-📄 Full PDF: [View Dashboard]()
+📄 Full PDF: [View Dashboard](https://github.com/sankeerthanatalathoti/Marketing-Performance-Customer-Insights-Dashboard/blob/bd9329fbfcf60213f112fc20fd13a425ba5252d2/Marketing%20Performance%20%26%20Customer%20Insights%20Dashboard_PDF.pdf)
 
 
 ---
