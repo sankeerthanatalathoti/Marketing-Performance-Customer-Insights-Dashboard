@@ -37,13 +37,9 @@ The company faced:
 ### **1️⃣ Power BI Dashboard (PDF Version)**
 
 ## 📊 Dashboard Preview
-###[Overview] 
 <img width="974" height="556" alt="image" src="https://github.com/user-attachments/assets/df9a8372-258d-42c2-b639-3ee713cdec56" />
-###[Conversion]
 <img width="1023" height="578" alt="image" src="https://github.com/user-attachments/assets/234489aa-f48f-438e-830a-8c39811ddb6e" />
-###[Social Media]
 <img width="969" height="545" alt="image" src="https://github.com/user-attachments/assets/591cd103-7ed3-4123-a58d-4e2ea51c102b" />
-###[Cx-Review]
 <img width="907" height="513" alt="image" src="https://github.com/user-attachments/assets/4bddd289-dfb1-4cfe-8e00-3140e9bc55fe" />
 
 📄 Full PDF: [View Dashboard](https://github.com/sankeerthanatalathoti/Marketing-Performance-Customer-Insights-Dashboard/blob/bd9329fbfcf60213f112fc20fd13a425ba5252d2/Marketing%20Performance%20%26%20Customer%20Insights%20Dashboard_PDF.pdf)
