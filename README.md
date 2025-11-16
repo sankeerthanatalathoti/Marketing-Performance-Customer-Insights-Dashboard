@@ -37,25 +37,29 @@ The company faced:
 ### **1️⃣ Power BI Dashboard (PDF Version)**
 
 ## 📊 Dashboard Preview
-![Overview](https://github.com/sankeerthanatalathoti/Marketing-Performance-Customer-Insights-Dashboard/blob/bd9329fbfcf60213f112fc20fd13a425ba5252d2/Marketing%20Performance%20%26%20Customer%20Insights%20Dashboard-Overview%20Report.pdf)
-![Conversion](https://github.com/sankeerthanatalathoti/Marketing-Performance-Customer-Insights-Dashboard/blob/bd9329fbfcf60213f112fc20fd13a425ba5252d2/Marketing%20Performance%20%26%20Customer%20Insights%20Dashboard-Conversion%20Details-Report.pdf)
-![Social Media](https://github.com/sankeerthanatalathoti/Marketing-Performance-Customer-Insights-Dashboard/blob/bd9329fbfcf60213f112fc20fd13a425ba5252d2/Marketing%20Performance%20%26%20Customer%20Insights%20Dashboard-SocialMedia-Report.pdf)
-![Cx-Review](https://github.com/sankeerthanatalathoti/Marketing-Performance-Customer-Insights-Dashboard/blob/bd9329fbfcf60213f112fc20fd13a425ba5252d2/Marketing%20Performance%20%26%20Customer%20Insights%20Dashboard-CX%20Review%20Report.pdf)
+###[Overview] 
+<img width="974" height="556" alt="image" src="https://github.com/user-attachments/assets/df9a8372-258d-42c2-b639-3ee713cdec56" />
+###[Conversion]
+<img width="1023" height="578" alt="image" src="https://github.com/user-attachments/assets/234489aa-f48f-438e-830a-8c39811ddb6e" />
+###[Social Media]
+<img width="969" height="545" alt="image" src="https://github.com/user-attachments/assets/591cd103-7ed3-4123-a58d-4e2ea51c102b" />
+###[Cx-Review]
+<img width="907" height="513" alt="image" src="https://github.com/user-attachments/assets/4bddd289-dfb1-4cfe-8e00-3140e9bc55fe" />
 
 📄 Full PDF: [View Dashboard](https://github.com/sankeerthanatalathoti/Marketing-Performance-Customer-Insights-Dashboard/blob/bd9329fbfcf60213f112fc20fd13a425ba5252d2/Marketing%20Performance%20%26%20Customer%20Insights%20Dashboard_PDF.pdf)
-
 
 ---
 
 ### **2️⃣ Project Presentation (PPT)**
 Contains business problem, goals, insights, and dashboard explanation.
 
-📊 **[View Presentation PPT]("<img width="903" height="501" alt="image" src="https://github.com/user-attachments/assets/46d22ca1-788c-4289-a985-4a87dcb91496" />
-")**  
-
+📊 **[View Presentation PPT]
+<img width="1113" height="642" alt="image" src="https://github.com/user-attachments/assets/62afffbd-0c56-4f8d-a8f0-46ae81faf8d6" />
+<img width="1112" height="628" alt="image" src="https://github.com/user-attachments/assets/046c74d8-133b-46ae-b9ed-fa2ffcba82f5" />
+<img width="1115" height="628" alt="image" src="https://github.com/user-attachments/assets/c8b271fb-fd2d-49d5-a314-d7ba6d95a70d" />
+<img width="1115" height="625" alt="image" src="https://github.com/user-attachments/assets/09d1672f-e479-4b9d-9646-f6f5dd3eb153" />
 
 ---
-
 
 ## 🛠 Tools Used
 - Power BI Desktop  
@@ -64,7 +68,3 @@ Contains business problem, goals, insights, and dashboard explanation.
 - Visualization  
 
 ---
-
-
-## 📬 Contact  
-If you have any questions or feedback, feel free to connect!  
