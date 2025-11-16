@@ -50,7 +50,8 @@ The company faced:
 ### **2️⃣ Project Presentation (PPT)**
 Contains business problem, goals, insights, and dashboard explanation.
 
-📊 **[View Presentation PPT]("C:\Users\SANKEERTHANA\Desktop\MARKET\Marketing Performance & Customer Insights INSIGHTS -PPT.pptx")**  
+📊 **[View Presentation PPT]("<img width="903" height="501" alt="image" src="https://github.com/user-attachments/assets/46d22ca1-788c-4289-a985-4a87dcb91496" />
+")**  
 
 
 ---
